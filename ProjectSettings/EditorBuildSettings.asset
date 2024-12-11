@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VideoScene/Video.unity
+    path: Assets/PolyspatialPassthroughBug/Bug.unity
     guid: 8c1417ca7b92d4046ad015c2158638e7
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 246b10dae3cbc4f7dafdf0197a21f6d6, type: 2}
